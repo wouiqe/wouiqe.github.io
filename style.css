@@ -1,0 +1,29 @@
+body {
+    color:#2a264a;
+    background-color: aliceblue;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin: 0px;
+}
+header {
+    color: white;
+    background-color: darkblue;
+    margin: 10px;
+    padding: 100px;
+    border-color: #749ed3;
+    border-style: solid;
+    border-radius: 64px;
+    box-shadow: 10px 5px 5px black;
+}
+h2 {
+    color: black;
+}
+b, i, del {
+    background-color: aquamarine; 
+}
+a {
+    color: red;
+}
+a:hover {
+    color:brown;
+}
